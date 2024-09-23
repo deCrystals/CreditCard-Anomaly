@@ -1,4 +1,4 @@
-# Credit Card Anomalty Detection
+# Credit Card Anomaly Detection
 This project aims to develop robust machine learning models for identifying fraudulent credit card transactions in real time, protecting customers from financial losses.
 ## Table of Contents
 * [Introduction](#Introduction)
